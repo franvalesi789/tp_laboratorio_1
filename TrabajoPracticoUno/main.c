@@ -9,6 +9,7 @@ int main()
     char opcion;
     float resultado;
 
+    /* Aqui se piden los valores al usuario y se le despliega el menu de opciones */
     do
     {
         printf("\nIngrese el primer valor: ");
